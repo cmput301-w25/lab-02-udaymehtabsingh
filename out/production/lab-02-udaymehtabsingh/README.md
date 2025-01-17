@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `Uday Mehtab SIngh`
-- **CCID:** `udaymeht`
+- **Full Name:** `<Enter name>`
+- **CCID:** `<Enter ccid>`
 
 ## References and Resources
 
